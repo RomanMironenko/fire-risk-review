@@ -1,0 +1,11 @@
+title: "Проверка расчётов пожарного риска"
+description: "Рекомендации по подготовке расчёта пожарного риска к проверке"
+lang: "ru-RU"
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
